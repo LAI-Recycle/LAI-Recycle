@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm LAI YC</h1>
-<h3 align="center">I am a junior software engineer from Taiwan, nice to meet you.</h3>
+<h3 align="center">A Strategy Manager for POS Solutions | Bridging Business Logic with Tech Execution | Taiwan 🇹🇼</h3>
 <br/>
-🔭 I am currently working on Lion Travel Information Company.
- 
+
 📫 Email： **xfjioyhnplus@gmail.com**
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lai-recycle&show_icons=true&locale=en&layout=compact" alt="lai-recycle" /></p>
