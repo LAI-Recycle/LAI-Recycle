@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm LAI YC</h1>
-<h3 align="center">A Strategy Manager for POS Solutions | Bridging Business Logic with Tech Execution | Taiwan 🇹🇼</h3>
+<h3 align="center">  綠岩能源（GreenRock） 擔任 AI 應用規劃工程師，聚焦 電力平台、EMS等 AI 與系統設計。 </h3>
+<h3 align="center"> 過去經歷包含軟體工程師、商業策略PM。| Taiwan 🇹🇼 </h3>
 <br/>
 
-📫 Email： **xfjioyhnplus@gmail.com**
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lai-recycle&show_icons=true&locale=en&layout=compact" alt="lai-recycle" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -19,3 +18,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%e5%bd%a5%e6%b1%9f-%e8%b3%b4-83a417187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e5%bd%a5%e6%b1%9f-%e8%b3%b4-83a417187/" height="30" width="40" /></a>
 </p>
+<p align="left">📫 Email： **xfjioyhnplus@gmail.com**</p>
